@@ -717,8 +717,11 @@ label:hover {
 
 }
 
+.card-selected {
 
+    background: #FD0073;
 
+}
 .precio {
     text-align: right;
     font-weight: bold;
