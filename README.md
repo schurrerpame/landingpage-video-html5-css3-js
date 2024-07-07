@@ -9,9 +9,5 @@
 - Aceptación de Cookies. GA4
 - Efectos con librería AOS Scroll. [aos](https://michalsnik.github.io/aos/)
 
-#### Diseño en FIGMA
-Ver Sitio [sitio](https://clclickweb.es/)
-
-![imagen](https://pameschurrer.es/wp-content/uploads/2023/07/web-cl-1.png)
 
 
