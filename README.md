@@ -1,5 +1,3 @@
-# CL Click Web – Landing Pages para agencia de marketing
-
 ## Desarrollado en HTML5 - CSS3 - JS Vanilla
 
 - Desarrollo de landing page para agencia de Marketing.
